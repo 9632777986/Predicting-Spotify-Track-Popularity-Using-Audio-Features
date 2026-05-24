@@ -1,8 +1,5 @@
 # Predicting-Spotify-Track-Popularity-Using-Audio-Features
 Machine learning models to predict Spotify track popularity using audio features
-# Spotify Track Popularity Prediction
-
-This project uses machine learning models to predict Spotify track popularity based on audio and metadata features.
 
 ## Models Used
 - Linear Regression
